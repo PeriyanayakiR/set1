@@ -14,6 +14,10 @@ int main()
         printf("consonent");
        }
     }
+    else
+    {
+        printf("invalid");
+    }
     return 0;
 }
 
